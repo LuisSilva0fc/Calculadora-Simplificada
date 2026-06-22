@@ -57,7 +57,7 @@ Você pode visualizar o projeto acessando esse link: https://calculadora-simplif
   - Você pode baixalo nesse repositorio ou digitar no seu terminal o seguinte comando:
 
     ```
-    git clone https://github.com/LuisSilva0fc/Calculadora-Simplificada-Atividade-Back-End.git
+    git clone https://github.com/LuisSilva0fc/Calculadora-Simplificada.git
     ```
 
 **2. Instale as dependências:**
